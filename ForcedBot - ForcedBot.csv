@@ -1,0 +1,12 @@
+Question,Answer,"Hint1
+",Hint2,Hint3,Hint4,"Hint5
+"
+What is your highest educational qualification?,,HS,UG,PG, PhD,Other1
+HS,Thanks for the info! My analysis of online trends has shown a significant amount of attention being directed towards Artificial Ingelligence.,Heard1,Familiar1,Know1,,
+Familiar1,Could you tell me how you think Machine Learning and Deep Learning are related?,(AĘ_ĘB): A is the superset and B is its subset, (A | B): A is distinct from B,,,
+(A | B): A is distinct from B,"Oops, seems like you got that one wrong! Deep Learning is a subset of Machine Learning.Deep Learning is a subset of Machine Learning. It revolves around techniques based on Artificial Neural Networks (Like my brainĘ:D)",Never Worry1,Sure Thing1,,,
+Sure Thing1,Let's take a quick detour into the domain of Artificial Intelligence. Applying Artificial Intelligence to a system would have it perform tasks such as,Yep1,Hang On1,,,
+Other1,My analysis of online trends has shown a significant amount of attention being directed towards Artificial Ingelligence.,Heard2,Familiar2,Know3,,
+Heard2,Could you tell me how you think Machine Learning and Deep Learning are related?,ML > DL,DL > ML,DL |ML,,
+ML > DL,"Yep, that sounds about right!",Yep2, Hang on2,,,
+Yep2,"Using the same notation, can you show me the relationship between ML, DL and AI. Use (Ę_ for superiority and | for distinction)",AI > ML > DL,ML > DL > AI,AI | ML > DL,,
